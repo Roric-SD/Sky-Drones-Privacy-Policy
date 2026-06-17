@@ -3,7 +3,7 @@ Last Updated June 17, 2026
 
 Sky Drones VR ("We", "Us", or "Our") is committed to protecting your privacy. This privacy policy explains what information we collect when you play Sky Drones VR, how we use it, and your rights regarding that information.
 
-The game is intended for 13+. We don't knowingly collect data of minors. If you suspect your child to have any data and wish to delete it, contact (Email, not sharing on this chat) so we can help delete the information.
+The game is intended for 13+. We don't knowingly collect data of minors. If you suspect your child to have any data and wish to delete it, contact: mccphevroric@gmail.com so we can help delete the information.
 
 We collect the following data:
 - Game progress through unlocking cosmetics and the in-game tutorial (Local)
@@ -25,5 +25,5 @@ We only store username data when reporting or being reported. All other data is 
 You can request deletion of your information by emailing: (Email, not sharing on this chat)
 
 This policy may update over time. We will notify of any updates in-game and in the Discord. Continuing to play means accepting the changes to this privacy policy.
-(Email, not sharing on this chat)
-(Discord, not sharing on this chat)
+Email: mccphevroric@gmail.com
+Discord: https://discord.gg/BqMeHg4hHn
