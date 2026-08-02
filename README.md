@@ -4,8 +4,12 @@ Last Updated August 2, 2026
 
 Sky Drones VR ("We", "Us", or "Our") is committed to protecting your privacy. This privacy policy explains what information we collect when you play Sky Drones VR, how we use it, and your rights regarding that information.
 
+## Children's Privacy
+
 The game is intended for 13+. We don't knowingly collect data of minors. If you suspect your child to have any data and wish to delete it, contact: mccphevroric@gmail.com so we can help delete the information.
 Note: Deletion requests for moderation data (bans) may not be fulfilled while a ban is actively being enforced.
+
+## Data We Collect
 
 We collect the following data:
 - Game progress through unlocking cosmetics and the in-game tutorial (Local)
@@ -13,10 +17,14 @@ We collect the following data:
 - In-game settings (Local)
 - Username made in-game (Firebase, when being moderated for reporting or being reported)
 
+  ## How We Use Your Data
+
 Moderation data (usernames involved in reports or bans) is retained for as long as necessary to resolve the report or enforce the ban, after which it is deleted. The rest of the information is used purely for in-game features and handling the multiplayer experience. Local data stays on the headset, multiplayer data goes through Photon, moderation data goes through Firebase.
 
+## Third-Party Services
+
 Third party services include:
-- Vivox: Used for voice chat. We don't collect any data. View policy here: https://unity.com/legal/developer-privacy-policy
+- Vivox: Used for voice chat in real time. Voice audio is transmitted to other players in real time. We do not store, log, or access voice chat features from users. View policy here: https://unity.com/legal/developer-privacy-policy
 - Firebase: In-game banning and moderation. We collect in-game usernames when someone is reporting someone, or is getting reported. View policy here: https://firebase.google.com/support/privacy
 - Photon: Hosts multiplayer servers. Not logged by us. Relays data in real time during a multiplayer session. View policy here: https://www.photonengine.com/compliance
 
@@ -26,7 +34,11 @@ We only store username data when reporting or being reported.
 
 You can request deletion of your information by emailing: mccphevroric@gmail.com
 
+## Policy Updates
+
 This policy may update over time. We will notify of any updates in-game and in the Discord. Continuing to play means accepting the changes to this privacy policy.
+
+## Contact Us
 
 Email: mccphevroric@gmail.com
 
