@@ -1,6 +1,6 @@
 Sky Drones VR - Privacy Policy
 
-Last Updated June 17, 2026
+Last Updated August 2, 2026
 
 Sky Drones VR ("We", "Us", or "Our") is committed to protecting your privacy. This privacy policy explains what information we collect when you play Sky Drones VR, how we use it, and your rights regarding that information.
 
