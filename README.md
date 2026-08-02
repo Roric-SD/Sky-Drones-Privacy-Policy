@@ -32,6 +32,8 @@ We don't share or sell any of your information.
 
 We only store username data when reporting or being reported. 
 
+## Requesting Data Deletion
+
 You can request deletion of your information by emailing: mccphevroric@gmail.com
 
 ## Policy Updates
